@@ -94,7 +94,6 @@ Counting the number of edges/relationships
 ```
 gremlin> g.E().count()
 ==>1012657
-gremlin> 
 ```
 
 
